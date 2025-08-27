@@ -66,7 +66,7 @@ Building responsive, scalable, and secure web applications.
 - Focus areas: **Dynamic Programming, Graphs, Greedy, Arrays, Strings, Trees**  
 
 ### 📈 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Karma&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rahbar10?theme=dark&font=Karma&ext=heatmap)  
 
 ---
 
