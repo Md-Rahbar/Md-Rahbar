@@ -69,7 +69,6 @@ Building responsive, scalable, and secure web applications.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahbar10?theme=dark&font=Karma&ext=heatmap)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Rahbar10/)
 ---
-![Rahbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Rahbar&show_icons=true&theme=default)
 
 
 ## 📫 Connect with Me
