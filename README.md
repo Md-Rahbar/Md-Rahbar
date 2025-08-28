@@ -1,5 +1,7 @@
 # Hi, I'm Md Rahbar Alam 👋  
 
+📧 [md.rahbar.cs@gmail.com](mailto:md.rahbar.cs@gmail.com) | 📱 [+91 8210725853](tel:+918210725853) | [LinkedIn](https://www.linkedin.com/in/md-rahbar-alam) | [GitHub](https://github.com/Md-Rahbar)  
+
 **Full Stack Developer | Java | Spring Boot | React.js | Node.js**  
 Focused on building responsive, scalable, and secure web applications.  
 
@@ -69,14 +71,5 @@ Focused on building responsive, scalable, and secure web applications.
 ### 📈 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahbar10?theme=dark&font=Karma&ext=heatmap)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Rahbar10/)  
-
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-rahbar-alam)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Md-Rahbar)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Rahbar10/)  
-📧 **Email:** md.rahbar.cs@gmail.com  
 
 ---
